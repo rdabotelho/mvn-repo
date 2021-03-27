@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>scaffolding-maven</name>
+      <prefix>scaffolding</prefix>
+      <artifactId>scaffolding-maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
