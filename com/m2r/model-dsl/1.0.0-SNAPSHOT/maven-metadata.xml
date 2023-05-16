@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.m2r</groupId>
+  <artifactId>model-dsl</artifactId>
+  <versioning>
+    <lastUpdated>20230516183405</lastUpdated>
+    <snapshot>
+      <timestamp>20230516.183405</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20230516.183405-2</value>
+        <updated>20230516183405</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20230516.183405-2</value>
+        <updated>20230516183405</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0.0-SNAPSHOT</version>
+</metadata>
