@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.m2r</groupId>
+  <artifactId>codegen</artifactId>
+  <versioning>
+    <lastUpdated>20230520152434</lastUpdated>
+    <snapshot>
+      <timestamp>20230520.152434</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.1.0-20230520.152434-1</value>
+        <updated>20230520152434</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1.0-20230520.152434-1</value>
+        <updated>20230520152434</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>jar-with-dependencies</classifier>
+        <extension>jar</extension>
+        <value>2.1.0-20230520.152434-1</value>
+        <updated>20230520152434</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>2.1.0-SNAPSHOT</version>
+</metadata>
