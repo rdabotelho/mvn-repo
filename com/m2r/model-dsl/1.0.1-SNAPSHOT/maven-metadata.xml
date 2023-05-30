@@ -3,21 +3,21 @@
   <groupId>com.m2r</groupId>
   <artifactId>model-dsl</artifactId>
   <versioning>
-    <lastUpdated>20230521011850</lastUpdated>
+    <lastUpdated>20230530230451</lastUpdated>
     <snapshot>
-      <timestamp>20230521.011850</timestamp>
+      <timestamp>20230530.230451</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.1-20230521.011850-1</value>
-        <updated>20230521011850</updated>
+        <value>1.0.1-20230530.230451-1</value>
+        <updated>20230530230451</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.1-20230521.011850-1</value>
-        <updated>20230521011850</updated>
+        <value>1.0.1-20230530.230451-1</value>
+        <updated>20230530230451</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
